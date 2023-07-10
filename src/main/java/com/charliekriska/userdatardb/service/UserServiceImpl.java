@@ -22,7 +22,7 @@ public class UserServiceImpl implements UserService {
                 User.builder()
                         .firstName("Happy")
                         .lastName("Gilmore")
-                        .email("happygilmore@yahoo.com")
+                        .email("happygilmore2@yahoo.com")
                         .build(),
                 User.builder()
                         .firstName("Bob")
