@@ -17,7 +17,7 @@ public class UserServiceImpl implements UserService {
                 User.builder()
                         .firstName("Charlie")
                         .lastName("Bucket")
-                        .email("charliebucket@gmail.com")
+                        .email("charliebucket2@gmail.com")
                         .build(),
                 User.builder()
                         .firstName("Happy")
